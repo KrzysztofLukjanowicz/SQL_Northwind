@@ -1,4 +1,4 @@
-/*Jakie są miasta, w których mieszka więcej niż 3 pracowników?*/  
+/*Cities where lives more than 3 employees*/  
 
 select city
 from employees e
